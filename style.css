@@ -1,1 +1,27 @@
 
+body {
+    display: fixed;
+    flex-direction: row nowrap;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .normal-text {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 20px;
+    font-weight: 400;
+    color: gray;
+  }
+  
+  .web-text {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(40, 40, 40)
+  }
+  
+  .web-bg {
+    background-color: rgb(137, 177, 156)
+  }
+
+  
